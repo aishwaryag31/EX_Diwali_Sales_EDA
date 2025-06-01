@@ -48,9 +48,3 @@ Visuals such as bar charts, histograms, and count plots were used to clearly ill
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/EX_Diwali_Sales_EDA.git
-   EX_Diwali_Sales_EDA
